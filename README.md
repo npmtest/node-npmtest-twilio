@@ -1,4 +1,7 @@
-# test coverage for  [twilio (v2.11.1)](https://github.com/twilio/twilio-node#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-twilio.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-twilio) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-twilio.svg)](https://travis-ci.org/npmtest/node-npmtest-twilio)
+# npmtest-twilio
+
+#### basic test coverage for  [twilio (v2.11.1)](https://github.com/twilio/twilio-node#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-twilio.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-twilio) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-twilio.svg)](https://travis-ci.org/npmtest/node-npmtest-twilio)
+
 #### A Twilio helper library
 
 [![NPM](https://nodei.co/npm/twilio.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/twilio)
@@ -99,7 +102,8 @@
     "scripts": {
         "test": "jasmine-node --captureExceptions spec"
     },
-    "version": "2.11.1"
+    "version": "2.11.1",
+    "bin": {}
 }
 ```
 
